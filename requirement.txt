@@ -19,3 +19,4 @@ numpy
 annotated_text
 collections
 typing
+ matplotlib.pyplot
