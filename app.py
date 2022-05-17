@@ -1,5 +1,5 @@
 #import matplotlib
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 from matplotlib.font_manager import FontProperties
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import pandas as pd
